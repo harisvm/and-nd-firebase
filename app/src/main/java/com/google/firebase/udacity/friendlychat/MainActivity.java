@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
 		mUsername = ANONYMOUS;
 
 		// Initialize references to views
-		mFirebaseDatabase = FirebaseDatabase.getInstance();
+		mFirebaseDatabase = FirebaseDatabase.getInstance();git
 
 		mfirebaseAuth = FirebaseAuth.getInstance();
 
